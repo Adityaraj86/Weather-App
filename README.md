@@ -20,7 +20,7 @@ Built with **HTML**, **CSS**, and **JavaScript** using the [WeatherAPI](https://
 
 ## 🚀 Live Demo
 
-[Click Here to View Live](#) *(Add your GitHub Pages / Hosting link here after deployment)*
+[Click Here to View Live](#) 
 
 ---
 
