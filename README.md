@@ -27,10 +27,10 @@ Built with **HTML**, **CSS**, and **JavaScript** using the [WeatherAPI](https://
 ## 📸 Screenshots
 
 ### 🌞 Sunny Example
-![Sunny Weather Screenshot](https://via.placeholder.com/800x400.png?text=Sunny+Weather)
+![Sunny Weather Screenshot]([https://via.placeholder.com/800x400.png?text=Sunny+Weather](https://github.com/Adityaraj86/Weather-App/blob/main/sunny.png))
 
 ### 🌧 Rainy Example
-![Rainy Weather Screenshot](https://via.placeholder.com/800x400.png?text=Rainy+Weather)
+![Rainy Weather Screenshot]([https://via.placeholder.com/800x400.png?text=Rainy+Weather](https://github.com/Adityaraj86/Weather-App/blob/main/cloudy.png))
 
 ---
 
